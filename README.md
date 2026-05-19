@@ -1,7 +1,7 @@
 # Coding the News Week 1
 
-Beep boop my first README file
+This is my first README file beep boop
 
 ## About me
 
-You can find my work at [my portfolio] (benjysachs.com/portfolio)
+You can find **my work** at [my portfolio](https://benjysachs.com/portfolio)
